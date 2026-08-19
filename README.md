@@ -77,7 +77,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://https://raw.githubusercontent.com/ibrael05/ibrael05/refs/heads/main/internship.png)
+[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/ibrael05/ibrael05/refs/heads/main/internship.png)
 
 
 <br>
